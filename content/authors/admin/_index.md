@@ -30,9 +30,6 @@ education:
   - course: PhD in Biophysics 
     institution: University of Illinois 
     year: 2019
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
   - course: BSc in Physics 
     institution: University of Illinois 
     year: 2012
