@@ -67,4 +67,4 @@ email: ""
 #- Visitors
 ---
 
-I'm a PhD Canidate in Biophysics at UIUC. I develop technologies at the interface of nanotech and biology using large-scale simulations.      
+I'm a Biophysics PhD Canidate in the [Aksimentiev Group] (http://bionano.physics.illinois.edu/) at UIUC. I develop technologies at the interface of nanotech and biology using large-scale simulations.      
