@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
+- Bio-nanotechnology 
 - Computational Linguistics
 - Information Retrieval
 
@@ -30,7 +30,7 @@ education:
   - course: PhD in Biophysics 
     institution: University of Illinois 
     year: 2019
-  - course: BSc in Physics 
+  - course: BSc in Physics minor: Computer Science 
     institution: University of Illinois 
     year: 2012
 
