@@ -30,7 +30,7 @@ education:
   - course: PhD in Biophysics 
     institution: University of Illinois 
     year: 2019
-  - course: BSc in Physics minor: Computer Science 
+  - course: BSc in Physics 
     institution: University of Illinois 
     year: 2012
 
