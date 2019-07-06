@@ -18,7 +18,7 @@ organizations:
   url: "http://bionano.physics.illinois.edu/people/manish-shankla"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Biophysics PhD canidate. I develop DNA sequencing and desalination tech using simulations.  
 
 interests:
 - Bio-nanotechnology 
@@ -41,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'shankla2@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link:https://scholar.google.com/citations?user=MoLn0HkAAAAJ&hl=en 
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
