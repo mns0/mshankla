@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://bionano.physics.illinois.edu"
   location = "Urbana Il"
   date_start = "2014-08-15"
-  date_end = "2019-11-15""
+  date_end = "2019-11-15"
   description = """
   Responsibilities include:
   
