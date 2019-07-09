@@ -31,13 +31,5 @@ date_format = "Jan 2006"
 	* Contributed to the successful acquisition computer time on various computing resources through proposal submissions.
 	* TA for upper undergraduate electronics course (PHYS404) and undergraduate E/M course. """
 
-[[experience]]
-  title = "Undergraduate"
-  company = "UIUC"
-  company_url = ""
-  location = "Illinois"
-  date_start = ""
-  date_end = "2012"
-  description = """Physics undergraduate with a computer science minor"""
 
 +++
