@@ -18,7 +18,25 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "python"
-  description = ""
+  description = "One half of my daily stack"
+
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
+  description = ""  
+
+
+
+
+
+
+[[feature]]
+  icon = "fa-linux"
+  icon_pack = "fab"
+  name = "bash"
+  description = "The other half of my daily stack"
 
 [[feature]]
   icon = "r-project"
@@ -26,11 +44,11 @@ subtitle = ""
   name = "R"
   description = ""
 
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
+
+
+
+
+
 
 [[feature]]
   icon = "fa-eye"
