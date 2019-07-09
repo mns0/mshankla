@@ -8,5 +8,8 @@ abstract: "Control over interactions with biomolecules holds the key to applicat
 featured: false
 publication: "*Nature Communications*"
 doi: "http://dx.doi.org/10.1038/ncomms6171"
+image:
+    focal_point: "Right"
+    preview_only: false
 ---
 
