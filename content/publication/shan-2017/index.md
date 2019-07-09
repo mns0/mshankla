@@ -8,5 +8,8 @@ abstract: "Modulation of ionic current flowing through nanoscale pores is one of
 featured: false
 publication: "*Journal of Physical Chemistry~B*"
 doi: "http://dx.doi.org/10.1021/acs.jpcb.6b10574"
+image:
+    focal_point: "Right"
+    preview_only: false
 ---
 
