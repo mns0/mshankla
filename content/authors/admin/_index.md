@@ -18,12 +18,11 @@ organizations:
   url: "http://bionano.physics.illinois.edu/people/manish-shankla"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biophysics PhD canidate. I develop DNA sequencing and desalination tech using simulations.  
+bio: Biophysics PhD canidate. I develop DNA sequencing and desalination tech using large-scale computer simulations.  
 
 interests:
-- Bio-nanotechnology 
-- Computational Linguistics
-- Information Retrieval
+- Bionanotechnology 
+-  
 
 education:
   courses:
@@ -67,4 +66,7 @@ email: ""
 #- Visitors
 ---
 
-I'm a Biophysics PhD Canidate in the [Aksimentiev Group] (http://bionano.physics.illinois.edu/) at UIUC. I develop technologies at the interface of nanotech and biology using large-scale simulations.
+I'm a Biophysics PhD Canidate in the [Aksimentiev Group] (http://bionano.physics.illinois.edu/) at UIUC.
+I develop technologies at the interface of nanotech and biology using large-scale simulations.
+My research focuses on developing sequencing methods to control DNA transport to nanopores and through nanopores in [2D](http://bionano.physics.illinois.edu/node/147) and [solid-state](http://bionano.physics.illinois.edu/node/160) materials to minimize error during base-readout.
+Recently, I've become interested in machine/deep learning methods, particularly related to computer vision and also applications of blockchain. 

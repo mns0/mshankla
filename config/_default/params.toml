@@ -12,7 +12,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Manish Shankla's Personal Website. PhD Canidate in Bionanotech RnD"
+description = "Manish Shankla's Personal Website. Biophysics PhD Canidate."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "profile.jpeg"
