@@ -8,5 +8,10 @@ abstract: "Graphene has been recognized as an enhanced platform for biosensors b
 featured: false
 publication: "*Langmuir*"
 doi: "10.1021/acs.langmuir.9b00164"
+image:
+    caption: ""
+    focal_point: "Right"
+    preview_only: false
+
 ---
 
