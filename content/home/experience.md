@@ -25,12 +25,11 @@ date_format = "Jan 2006"
   date_start = "2014-08-15"
   date_end = "2019-11-15"
   description = """
-	* Performed large-scale molecular-dynamics simulations of DNA/protein transport on supercomputers.
+    * Performed large-scale molecular-dynamics simulations of DNA/protein transport on supercomputers.
 	* Developed stochastic simulation methods of lateral biomolecule capture from large-scale simulation data. 
 	* Collaborate closely with experimentalists to determine physical mechanisms of desalination on novel-protein membrane and the designing of DNA sequencing devices.
 	* Contributed to the successful acquisition computer time on various computing resources through proposal submissions.
-	* TA for upper undergraduate electronics course (PHYS404) and undergraduate E/M course. 
-  """
+	* TA for upper undergraduate electronics course (PHYS404) and undergraduate E/M course. """
 
 [[experience]]
   title = "Undergraduate"
