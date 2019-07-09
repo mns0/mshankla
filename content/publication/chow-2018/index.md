@@ -8,5 +8,9 @@ abstract: "Monodispersed angstrom-size pores embedded in a suitable matrix are p
 featured: True
 publication: "*Nature Communications*"
 doi: "doi.org/10.1038/s41467-018-06097-1"
+image:
+    caption: ""
+    focal_point: "Left"
+    preview_only: false
 ---
 
