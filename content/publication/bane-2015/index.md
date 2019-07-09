@@ -8,5 +8,8 @@ abstract: ""
 featured: false
 publication: "*Advanced Functional Materials*"
 doi: "http://dx.doi.org/10.1002/adfm.201403719"
+image:
+    focal_point: "Center"
+    preview_only: false
 ---
 
