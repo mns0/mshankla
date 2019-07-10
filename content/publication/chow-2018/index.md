@@ -9,7 +9,6 @@ featured: True
 publication: "*Nature Communications*"
 doi: "doi.org/10.1038/s41467-018-06097-1"
 image:
-    focal_point: "Right"
     preview_only: false
 ---
 
