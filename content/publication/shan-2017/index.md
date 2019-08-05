@@ -1,6 +1,7 @@
 ---
 title: "Modulation of Molecular Flux Using a Graphene Nanopore Capacitor"
 date: 2017-01-01
+weight: 8
 publishDate: 2019-07-06T19:32:10.855828Z
 authors: ["Manish Shankla", "Aleksei Aksimentiev"]
 publication_types: ["2"]

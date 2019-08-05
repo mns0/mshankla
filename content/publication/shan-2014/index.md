@@ -1,6 +1,7 @@
 ---
 title: "Conformational Transitions and Stop-and-Go Nanopore Transport of Single-Stranded DNA on Charged Graphene"
 date: 2014-01-01
+weight: 10
 publishDate: 2019-07-06T19:32:10.856418Z
 authors: ["Manish Shankla", "Aleksei Aksimentiev"]
 publication_types: ["2"]

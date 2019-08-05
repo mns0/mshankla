@@ -1,6 +1,7 @@
 ---
 title: "PoreDesigner for tuning solute selectivity in a robust and highly permeable outer membrane pore"
 date: 2018-01-01
+weight: 7
 publishDate: 2019-07-06T19:32:10.855137Z
 authors: ["Ratul Chowdhury", "Tingwei Ren", "Manish Shankla", "Karl Decker", "Matthew Grisewood", "Jeevan Prabhakar", "Carol Baker", "John H Golbeck", "Aleksei Aksimentiev", "Manish Kumar", "Costas D Maranas"]
 publication_types: ["2"]

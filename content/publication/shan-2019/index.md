@@ -1,6 +1,7 @@
 ---
 title: "Step-defect guided delivery of DNA to a graphene nanopore"
 date: 2019-01-01
+weight: 5
 publishDate: 2019-08-05T18:29:21.717725Z
 authors: ["Manish Shankla", "Aleksei Aksimentiev"]
 publication_types: ["2"]

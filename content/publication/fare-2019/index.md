@@ -1,6 +1,7 @@
 ---
 title: "Characterization of the Lipid Structure and Fluidity of Lipid Membranes on Epitaxial Graphene and Their Correlation to Graphene Features"
 date: 2019-01-01
+weight: 6
 publishDate: 2019-07-06T19:32:10.853909Z
 authors: ["Megan Farell", "Maxwell Wetherington", "Manish Shankla", "Inseok Chae", "Shruti Subramanian", "Seong H. Kim", "Aleksei Aksimentiev", "Joshua Robinson", "Manish Kumar"]
 publication_types: ["2"]
