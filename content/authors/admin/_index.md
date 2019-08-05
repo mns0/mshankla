@@ -41,9 +41,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'shankla2@illinois.edu'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=MoLn0HkAAAAJ&hl=en 
