@@ -22,7 +22,7 @@ bio: Biophysics PhD canidate. I develop DNA sequencing and desalination tech usi
 
 interests:
 - Bionanotechnology 
--  
+-   
 
 education:
   courses:
@@ -68,5 +68,6 @@ email: ""
 
 I'm a Biophysics PhD Canidate in the [Aksimentiev Group] (http://bionano.physics.illinois.edu/) at UIUC.
 I develop technologies at the interface of nanotech and biology using large-scale simulations.
-My research focuses on developing sequencing methods to control DNA transport to nanopores and through nanopores in [2D](http://bionano.physics.illinois.edu/node/147) and [solid-state](http://bionano.physics.illinois.edu/node/160) materials to minimize error during base-readout.
-Recently, I've become interested in machine/deep learning methods, particularly related to computer vision and also applications of blockchain. 
+My research focuses on developing sequencing methods to control DNA transport [to nanopores](https://news.illinois.edu/view/6367/801710) and through nanopores in [2D](http://bionano.physics.illinois.edu/node/147) and [solid-state](http://bionano.physics.illinois.edu/node/160) materials.
+I've also modeled the designs of [biological](http://bionano.physics.illinois.edu/node/290) and [solid-state](http://bionano.physics.illinois.edu/node/252) membranes for desalination applications. 
+Recently, I've become interested in machine/deep learning methods, particularly related to computer vision and applications of blockchain. 
