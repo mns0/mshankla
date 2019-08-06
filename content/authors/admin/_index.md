@@ -22,7 +22,8 @@ bio: Biophysics PhD canidate. I develop DNA sequencing and desalination tech usi
 
 interests:
 - Bionanotechnology 
--   
+- Biomimetics 
+- ML/AI applications
 
 education:
   courses:
