@@ -65,7 +65,7 @@ email: ""
 
 
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+src="http://bionano.physics.illinois.edu/sites/default/files/videos/converted/966/output_mpeg-4_640x480_1425324285.mp4" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
