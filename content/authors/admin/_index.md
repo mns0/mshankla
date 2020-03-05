@@ -18,12 +18,17 @@ organizations:
   url: "http://bionano.physics.illinois.edu/people/manish-shankla"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Biophysics PhD canidate. I develop DNA sequencing and desalination tech using large-scale computer simulations.  
+bio: 
 
-interests:
-- Bionanotechnology 
-- Biomimetics 
-- ML/AI applications
+I'm a newly minted Computational Biophysics Phd skilled in crafting data pipelines on HPC machines to simulate Molecular Dynamics/Monte-Carlo/Stochastic simulations, extract data, and perform down-stream analysis using statistical, time-series, machine learning, and conventional computer vision algorithms.
+
+
+Experienced in distributing deep learning models over multiple GPU's for synchronous/asynchronous training using MPI.
+
+Programming Languages: Python, Bash, R, C++ (in coursework)
+Machine Learning Frameworks: PyTorch, scikit-learn, XGBoost, OpenCV
+Workflow: Linux, HPC clusters, Apache Spark, MPI4PY, SLURM, TORQUE, Git, SVN 
+
 
 education:
   courses:
