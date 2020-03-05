@@ -19,10 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-I'm a newly minted Computational Biophysics Phd skilled in crafting data pipelines on HPC machines to simulate Molecular Dynamics/Monte-Carlo/Stochastic simulations, extract data, and perform down-stream analysis using statistical, time-series, machine learning, and conventional computer vision algorithms.
-
-
-
+cat
 
 
 education:
