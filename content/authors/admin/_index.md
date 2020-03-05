@@ -18,8 +18,7 @@ organizations:
   url: "http://bionano.physics.illinois.edu/people/manish-shankla"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-cat
+bio: I'm a recent Biophysics PhD that crafts novel physics from ensembles of data. Using thoesands of Molecular Dynamics/Monte-Carlo/Stochastic simulations on HPC machines and statistical and machine learning techniques, I've developed an efficient [biomolecule delivery technique](http://bionano.physics.illinois.edu/node/302)  
 
 
 education:
