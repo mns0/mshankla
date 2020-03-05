@@ -63,7 +63,11 @@ email: ""
 #- Visitors
 ---
 
-I'm a recent Biophysics PhD that crafts novel physics from ensembles of data. Using thoesands of Molecular Dynamics/Monte-Carlo/Stochastic simulations on HPC machines and statistical and machine learning techniques, I've developed an efficient [biomolecule delivery technique](http://bionano.physics.illinois.edu/node/302)  
+I combine physics, statistics, and machine learning to craft stories from ensembles of data. 
+
+Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physics.illinois.edu/node/302) featured in [Nature Nanotechnology](https://www.nature.com/nnano/volumes/14/issues/9) and [flossed DNA through graphene pores](http://bionano.physics.illinois.edu/node/147) featured in [Nature Communications](https://www.nature.com/articles/ncomms6171).
+
+It's not everyday you get to see [DNA dance](http://bionano.physics.illinois.edu/sites/default/files/videos/converted/966/output_mpeg-4_640x480_1425324285.mp4)  
 
 
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
