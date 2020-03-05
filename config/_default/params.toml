@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
-font = "Minimal"
+font = "minimal"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Manish Shankla's Personal Website. Biophysics PhD"
