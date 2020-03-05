@@ -63,6 +63,14 @@ email: ""
 #- Visitors
 ---
 
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
 I combine physics, statistics, and machine learning to craft stories from ensembles of data. 
 
 Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physics.illinois.edu/node/302) featured in [Nature Nanotechnology](https://www.nature.com/nnano/volumes/14/issues/9) and [flossed DNA through graphene pores](http://bionano.physics.illinois.edu/node/147) featured in [Nature Communications](https://www.nature.com/articles/ncomms6171).
