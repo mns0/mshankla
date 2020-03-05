@@ -12,7 +12,7 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Manish Shankla's Personal Website. Biophysics PhD Canidate."
+description = "Manish Shankla's Personal Website. Biophysics PhD"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = "profile.jpeg"
@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "shankla2@illinois.edu"
 phone = ""
-address = "1110 W Green St Loomis Laboratory, Urbana, IL 61801"
+address = "San Jose, CA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -87,9 +87,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 3
 map_api_key = ""
-latitude = "40.111145"
-longitude =  "-88.223351" 
-zoom = 15
+latitude = "37.3382"
+longitude =  "121.8863" 
+zoom = 12
 
 ############################
 ## Plugins                ##
