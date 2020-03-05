@@ -64,16 +64,24 @@ email: ""
 ---
 
 
-<iframe width="560" height="315"
-src="http://bionano.physics.illinois.edu/sites/default/files/videos/converted/966/output_mpeg-4_640x480_1425324285.mp4" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+
+
+
+
 
 
 I combine physics, statistics, and machine learning to craft stories from ensembles of data. 
 
 Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physics.illinois.edu/node/302) featured in [Nature Nanotechnology](https://www.nature.com/nnano/volumes/14/issues/9) and [flossed DNA through graphene pores](http://bionano.physics.illinois.edu/node/147) featured in [Nature Communications](https://www.nature.com/articles/ncomms6171).
+
+
+<iframe width="427" height="235"
+src="https://www.youtube.com/watch?v=9FiiqhV5pAE" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 
 It's not everyday you get to see [DNA dance](http://bionano.physics.illinois.edu/sites/default/files/videos/converted/966/output_mpeg-4_640x480_1425324285.mp4)  
 
