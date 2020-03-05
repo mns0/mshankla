@@ -77,7 +77,7 @@ Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physic
 
 
 <iframe width="427" height="235"
-src="https://www.youtube.com/watch?v=9FiiqhV5pAE" 
+src="https://www.youtube.com/embed/9FiiqhV5pAE"
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
