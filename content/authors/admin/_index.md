@@ -64,22 +64,13 @@ email: ""
 ---
 
 
-I combine physics, statistics, and machine learning to craft stories from ensembles of data. 
-
-
-Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physics.illinois.edu/node/302) featured in [Nature Nanotechnology](https://www.nature.com/nnano/volumes/14/issues/9)
+I combine physics, statistics, and machine learning to craft stories from ensembles of data. Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physics.illinois.edu/node/302) featured in [Nature Nanotechnology](https://www.nature.com/nnano/volumes/14/issues/9)
 
 <div style=”float:left;margin-right:14px;”>  <iframe width="480" height="152" src="https://www.youtube.com/embed/WlMTCDlzPGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> 
 
-
-
-
-
-
-
 and [flossed DNA through graphene pores](http://bionano.physics.illinois.edu/node/147) featured in [Nature Communications](https://www.nature.com/articles/ncomms6171).
 
-<div style=”float:left;margin-right:14px;”> <iframe width="427" height="235"
+<div style=”float:left;margin-right:14px;”> <iframe width="300" height="166"
 src="https://www.youtube.com/embed/9FiiqhV5pAE"
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
@@ -87,6 +78,9 @@ allowfullscreen></iframe>
 </div>
 
 It's not everyday you get to see [DNA dance](http://bionano.physics.illinois.edu/sites/default/files/videos/converted/966/output_mpeg-4_640x480_1425324285.mp4)  
+
+<iframe width="186" height="105" src="https://www.youtube.com/embed/aIIgbYKefD0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
