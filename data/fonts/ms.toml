@@ -5,7 +5,7 @@ name = "ms"
 google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
 
 # Font families
-heading_font = "Arapey"
+heading_font = "Plex"
 body_font = "Karla"
 nav_font = "Karla"
 mono_font = "Roboto Mono"
