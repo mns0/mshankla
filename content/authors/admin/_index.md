@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Machine Learning/Deep Learning Engineering 
+role: Searching for Machine Learning/Deep Learning Engineering roles
 
 # Organizations/Affiliations
 organizations:
