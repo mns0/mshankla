@@ -76,7 +76,7 @@ I combine physics, statistics, and machine learning to craft stories from ensemb
 Along the way, I've [guided DNA on graphene nano-highways](http://bionano.physics.illinois.edu/node/302) featured in [Nature Nanotechnology](https://www.nature.com/nnano/volumes/14/issues/9)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GkopIiGYxPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="152" src="https://www.youtube.com/embed/GkopIiGYxPU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
