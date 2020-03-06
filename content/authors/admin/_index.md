@@ -83,6 +83,16 @@ It's not everyday you get to see [DNA dance](http://bionano.physics.illinois.edu
 
 
 
+
+
+
+
+<div style=”float:left;width:auto;margin-right:14px;”> <iframe width="480" height="152" src="https://www.youtube.com/embed/WlMTCDlzPGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <div style=”float:left;width:auto;”>  <iframe width="300" height="166" src="https://www.youtube.com/embed/9FiiqhV5pAE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div> <div style=”clear:both;height:1em;”></div>
+
+
+
+
+
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 
  
