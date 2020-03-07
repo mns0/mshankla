@@ -464,7 +464,7 @@ p_dropped
 
 
 
-![png](test_linear_regression_11_1.png)
+![png](/img/test_linear_regression_11_1.png)
 
 
 
