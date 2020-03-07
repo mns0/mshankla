@@ -21,16 +21,11 @@ from sklearn import datasets
 import pandas as pd
 ```
 
-In this series of back-to-basic posts I'm reviews some simpler but powerful inferential statistical methods. Here we're focusing on the good ol'fashion linear regression. In the next post I'll dive into some shrinkage techniques but for now we're keeping it simple. The last cell contains all the code in the linear regression class.
+In this series of back-to-basic posts I'm reviewing simpler but powerful inferential statistical methods. Here we're focusing on the good ol'fashion linear regression. In the next post I'll dive into some shrinkage techniques but for now we're keeping it simple. 
 
 I'm using the [prostate data](https://web.stanford.edu/~hastie/ElemStatLearn/data.html) set following my favorite machine learning text, [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/). 
 
 Linear regressions is the minimization of a cost function $E[(Y-\hat{Y})^2]$ where $\hat{Y} = X\beta$ where $\beta$ are the estimated regression coefficients and $X$~is a $(p+1)\times~N$ matrix containing p predictors and N data points. The expectation is taken empirically.
-
-
-
-
-
 
 
 
