@@ -1,3 +1,16 @@
+---
+title: Going Back-to-Basics: Shrinkage: Ridge/Lasso/Coordinate Descent  
+date: 2019-03-08
+
+---
+
+
+
+```python
+# Going Back-to-Basics: Shrinkage: Ridge/Lasso/Coordinate Descent  
+## Shrinkage Methods: Solving ridge and lasso with coordinate descent 
+```
+
 # Shrinkage methods: Ridge and LASSO
 
 ## Ridge Regression

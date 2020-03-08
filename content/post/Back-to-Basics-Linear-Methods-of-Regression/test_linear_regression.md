@@ -1,5 +1,5 @@
 ---
-title: Going Back-to-Basics
+title: Going Back-to-Basics: OLS
 date: 2019-03-01
 
 ---
