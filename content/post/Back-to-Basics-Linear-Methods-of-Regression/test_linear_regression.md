@@ -1,8 +1,13 @@
 ---
+title: Going Back-to-Basics
 title: Going Back-to-Basics: OLS
 date: 2019-03-01
 
 ---
+```python
+# Going Back-to-Basics
+## Linear methods for regression
+```
 
 
 
