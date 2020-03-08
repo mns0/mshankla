@@ -214,7 +214,7 @@ plt.axis('tight')
 
 
 
-![png](./Shrinkage_5_1.png)
+![png](/img/Shrinkage_5_1.png)
 
 
 
@@ -266,5 +266,5 @@ plt.axis('tight')
 
 
 
-![png](./Shrinkage_6_1.png)
+![png](/img/Shrinkage_6_1.png)
 
