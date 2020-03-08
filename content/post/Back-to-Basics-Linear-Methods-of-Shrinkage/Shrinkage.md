@@ -11,9 +11,10 @@ date: 2019-03-08
 Ridge regression shrinks coefficients, $\hat{\beta}$, by penalizing the residual sum of squares with a Lagrange multiplier, $\lambda$. 
 
 
-$$
+\begin{align}
 \hat{\beta}^{ridge} = \operatorname*{arg\,min}_\beta \bigg\{ \sum_{i=1}^{N}\big(y_i - \beta_0 - \sum_{j=1}^{p} x_{ij}\beta_j\big)^2 +\lambda \sum_{j=1}^{p} \beta^2_j\bigg\}
-$$
+\end{align}
+
 
 Written as the optimization,
 
@@ -207,7 +208,7 @@ plt.axis('tight')
 
 
 
-![png](/img/Shrinkage_6_1.png)
+![png](./Shrinkage_6_1.png)
 
 
 
@@ -259,5 +260,5 @@ plt.axis('tight')
 
 
 
-![png](/img/Shrinkage_7_1.png)
+![png](./Shrinkage_7_1.png)
 
