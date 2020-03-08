@@ -7,12 +7,6 @@ date: 2019-03-01
 
 
 ```python
-# Going Back-to-Basics
-## Linear methods for regression
-```
-
-
-```python
 %matplotlib inline
 import numpy as np
 import matplotlib.pyplot as plt
