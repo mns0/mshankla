@@ -70,7 +70,7 @@ Coordinated Decent is an efficient method for solving ridge and lasso problems.
 ### Coordinated Descent (Algorithim):
 
 
-Coordinate descent is done by iteratively regressing a predictor ($X_j$) on all currently explained predictors $X_{-j}$. $X\beta$ can be split into $Y = X_j\beta_j + X_{-j}\beta_{-j}$. 
+Coordinate descent is done by iteratively regressing a predictor, $X_j$,  on all currently explained predictors $X_{-j}$. $X\beta$ can be split into $Y = X_j\beta_j + X_{-j}\beta_{-j}$. 
 
 $$
 Y = X_j\beta_j + X_{-j}\beta_{-j}\\
