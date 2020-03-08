@@ -1,6 +1,7 @@
 ---
-title: Going Back-to-Basics: Ridge/Lasso/Coordinate Descent  
+title: Going Back-to-Basics -- Shrinkage
 date: 2019-03-08
+
 ---
 
 
