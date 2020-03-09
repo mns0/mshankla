@@ -1,5 +1,5 @@
 ---
-title: Going Back-to-Basics -- Shrinkage
+title: Going Back-to-Basics -- Convolutional Neural Network from Scratch
 date: 2019-03-08
 
 ---
